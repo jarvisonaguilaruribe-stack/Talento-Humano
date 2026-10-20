@@ -1,0 +1,6 @@
+{
+  "name": "TalentoPyme Colombia - Gestión Integral de Talento Humano",
+  "description": "Diseño conceptual y plataforma web modular para la gestión de talento humano en microempresas colombianas: personal, documentos, nómina CST, SST Res. 0312, clima y capacitación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
